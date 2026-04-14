@@ -11,6 +11,7 @@ TODO:
 
 work on type conversion for a new "printmathexpr |" function
 actually start lexing
+maybe change syntax, so "print |" becomes "print()". this is actually quite easy because the interpreter is close to bring maximum-munch based.
 */
 std::vector<std::string> printreg = {};
 std::vector<int> exitcode = {};
